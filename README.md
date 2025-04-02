@@ -87,20 +87,20 @@ Languages and Technologies: `React`, `C++ (Arduino)`, `3D Print`, `HTML`, `CSS`,
 <!-- [![Vue](https://skills.thijs.gg/icons?i=vue)](https://pt.wikipedia.org/wiki/Vue) -->
 </div>
 
-<h5>Back-end:</h5>
+<!--<h5>Back-end:</h5>
 
 <div style="display: inline_block">
 
-<!--   <img align="center" alt="Cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cs/Cs-original.svg" /> 
+  <img align="center" alt="Cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cs/Cs-original.svg" /> 
  <img align="center" alt=".NET" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
-  <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />-->
+  <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
 [![MYSQL](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
 [![CPP](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
 [![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
   <br> 
 </div>
-
+-->
 <h4>Tools:</h4>
 
 <div style="display: inline_block">
@@ -115,6 +115,7 @@ Languages and Technologies: `React`, `C++ (Arduino)`, `3D Print`, `HTML`, `CSS`,
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
   [![Arduino](https://skills.thijs.gg/icons?i=arduino)](https://www.arduino.cc)
+  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
 
@@ -126,12 +127,9 @@ Languages and Technologies: `React`, `C++ (Arduino)`, `3D Print`, `HTML`, `CSS`,
 <img align="center" alt="cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" />
 <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
   [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
-  [![Spring](https://skills.thijs.gg/icons?i=spring)](https://pt.wikipedia.org/wiki/spring)
-  [![CPP](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
   [![MYSQL](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
   [![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
   [![Eclipse](https://skills.thijs.gg/icons?i=eclipse)](https://pt.wikipedia.org/wiki/eclipse)
-  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
 <br>
