@@ -1,4 +1,3 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#3323ef&height=120&section=header"/>
 
 
@@ -15,7 +14,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DEVinciano&show_icons=true&count_private=true&hide_border=true&title_color=3323ef&icon_color=3323ef&text_color=ffffff&bg_color=000000" alt="Devinciano github stats" /> 
  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azak-v&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVinciano&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
 <div align="center">
@@ -31,7 +30,7 @@
  
  ## 🎓 Academic Formations:
   
-[<img align="left" height="120px" width="120px" alt="logofaculdadedescomplica" src="https://images.sympla.com.br/5e1e112e731ca.png"/>](https://descomplica.com.br/faculdade)
+[<img align="left" height="120px" width="120px" alt="logofaculdadedescomplica" src="https://1.bp.blogspot.com/-ArS8cUgFBm4/YFNr41MzqZI/AAAAAAAAKYk/X4Hr_yjoCKU4AgARNC4LBRrl6xUSI02MACLcBGAsYHQ/s16000/faculdade-descomplica.jpg"/>](https://descomplica.com.br/faculdade)
 
 **Software Engineer** \
 [**Faculdade Descomplica**]([https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/](https://descomplica.com.br/faculdade/engenharia/engenharia-de-software/)) • Student \
