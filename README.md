@@ -18,9 +18,7 @@
 </div>
 
 <div align="center">
-<img width="60px" src="https://cdnb.artstation.com/p/assets/images/images/058/254/499/original/sanghyeon-lee-yone-run.gif?1673739102">
-<img width="60px" src="https://cdnb.artstation.com/p/assets/images/images/058/257/965/original/sanghyeon-lee-yone-idle.gif?1673752408">
-<img width="60px" src="https://cdnb.artstation.com/p/assets/images/images/058/257/917/original/sanghyeon-lee-yone-attack.gif?1673752262">
+<img width="100px" src="https://media.baamboozle.com/uploads/images/420195/d900e07a-75e4-4e3c-b2f7-8b7b684059f7.gif">
 </div>
 
 <div align="center"> 
@@ -82,6 +80,7 @@ Languages and Technologies: `React`, `HTML`, `CSS`, `TypeScript`, `Styled-Compon
   <img align="center" alt="JAVASCRIPT" height="50" src="https://i.postimg.cc/JnS1vz5P/javascript-logo-javascript-icon-transparent-free-png.png">
   <img align="center" alt="REACT" height="50" src="https://i.postimg.cc/Dyr2pFJP/React-Logo.png">
   <img align="center" alt="TYPESCRIPT" height="50" src="https://i.postimg.cc/pTCS5Gp8/Typescript-logo-2020-svg.png">
+  <img align="center" alt="TAILWIND" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042">
 </div>
 
 <!--<h5>Back-end:</h5>
@@ -116,6 +115,7 @@ center" alt="Cpp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/
   <img align="center" alt="SQL" height="50" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png">
   <img align="center" alt="NODEJS" height="50" src="https://logodix.com/logo/1764875.png">
   <img align="center" alt="PYTHON" height="50" src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png">
+  <img align="center" alt="POSTMAN" height="50" src="https://nordicapis.com/wp-content/uploads/postman-logo.png">
   <br>
 </div>
 <br>
