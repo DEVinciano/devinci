@@ -14,7 +14,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DEVinciano&show_icons=true&count_private=true&hide_border=true&title_color=1400ff&icon_color=1400ff&text_color=ffffff&bg_color=000000" alt="Devinciano github stats" /> 
  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVinciano&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVinciano&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
 <div align="center">
