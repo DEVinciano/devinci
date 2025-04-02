@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1400ff&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1400ff&size=35&center=true&vCenter=true&width=1000&lines=Oi!,+Salut!,+Hi!,+My+name+is+Leonardo+Correa;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+in+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1400ff&size=35&center=true&vCenter=true&width=1000&lines=Oi!,+Salut!,+Hi!,+My+name+is+Leonardo+Correa;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+in+Software+Engineer;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
+  adwd
 <img width="400px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25c93289-0576-4645-bc48-e828abec9740/de2x6xe-aa7e3f5c-dee4-4ad6-9068-d839e28848d7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjVjOTMyODktMDU3Ni00NjQ1LWJjNDgtZTgyOGFiZWM5NzQwXC9kZTJ4NnhlLWFhN2UzZjVjLWRlZTQtNGFkNi05MDY4LWQ4MzllMjg4NDhkNy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.LHxiQ2qy75YibYM9r9FWkVSHovWwmWj9pkG_hQyN5LI">
 </div>
 
@@ -51,7 +52,7 @@ Languages and Technologies: `REACT`, `Python`, `Javascript`, `HTML`, `CSS`\
 
 ## 💼 Professional Experiences:
 
-[<img align="left" height="120px" width="120px" alt="colegiotriviumlogo" src="https://ik.imagekit.io/azakv/download.jfif?updatedAt=1687785021600"/>](http://colegiotrivium.com.br)
+[<img align="left" height="120px" width="120px" alt="colegiotriviumlogo" src="https://th.bing.com/th/id/OIP.pECmk5aXcnJgajlxR5TZRwHaHa?rs=1&pid=ImgDetMain"/>](http://colegiotrivium.com.br)
 
 **STEM Teacher** \
 [**Colégio Trivium**](http://colegiotrivium.com.br) • Teacher \
@@ -115,7 +116,6 @@ Languages and Technologies: `React`, `C++ (Arduino)`, `3D Print`, `HTML`, `CSS`,
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
   [![Arduino](https://skills.thijs.gg/icons?i=arduino)](https://www.arduino.cc)
-  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
   <br>
 </div>
 
