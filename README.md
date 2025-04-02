@@ -40,7 +40,7 @@ Languages and Technologies: `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`
 <br>
 
 
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://tecnologia3dcursos.com.br/wp-content/uploads/2020/06/logo-danki-code.jpg"/>](https://cursos.dankicode.com)
+[<img align="left" height="120px" width="120px" alt="logoscrimba" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/40/d548ef33b3401f942edc9c24840b52/social.png?auto=format%2Ccompress&dpr=1&w=180&h=180"/>](https://scrimba.com)
 
 **Scrimba** \
 [**SCRIMBA**]([https://scrimba.com](https://scrimba.com/courses)) • Student \
