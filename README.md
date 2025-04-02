@@ -81,6 +81,7 @@ Languages and Technologies: `React`, `HTML`, `CSS`, `TypeScript`, `Styled-Compon
   <img align="center" alt="REACT" height="50" src="https://i.postimg.cc/Dyr2pFJP/React-Logo.png">
   <img align="center" alt="TYPESCRIPT" height="50" src="https://i.postimg.cc/pTCS5Gp8/Typescript-logo-2020-svg.png">
   <img align="center" alt="TAILWIND" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042">
+  <img align="center" alt="TAILWIND" height="50" src="https://www.devmedia.com.br/imagens/articles/artigo-utilizando-styled-components-no-react-43554.png">
 </div>
 
 <!--<h5>Back-end:</h5>
